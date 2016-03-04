@@ -1,0 +1,21 @@
+{
+  "name": "docker-manager",
+  "description": "",
+  "main": "",
+  "authors": [
+    "mnmari <mariyan.marinov@gfk.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-dropdown": "https://github.com/codemix/bootstrap-dropdown.git"
+  }
+}
